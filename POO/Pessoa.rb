@@ -21,5 +21,3 @@ end
     
 p2 = Pessoa2.new("André 2")
 puts p2.imprimirNome
-
-puts '==============='
